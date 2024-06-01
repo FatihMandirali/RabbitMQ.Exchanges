@@ -1,0 +1,17 @@
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Consumer
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Consumer.deps.json
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Consumer.runtimeconfig.json
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Consumer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Consumer.pdb
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.csproj.AssemblyReference.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.AssemblyInfoInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.AssemblyInfo.cs
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.csproj.CopyComplete
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/refint/RabbitMQ.Consumer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.pdb
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/RabbitMQ.Consumer.genruntimeconfig.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Consumer/obj/Debug/net8.0/ref/RabbitMQ.Consumer.dll

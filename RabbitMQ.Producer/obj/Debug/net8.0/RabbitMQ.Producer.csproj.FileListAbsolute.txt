@@ -1,0 +1,17 @@
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Producer
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Producer.deps.json
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Producer.runtimeconfig.json
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Producer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Producer.pdb
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.csproj.AssemblyReference.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.AssemblyInfoInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.AssemblyInfo.cs
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.csproj.CoreCompileInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.csproj.CopyComplete
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/refint/RabbitMQ.Producer.dll
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.pdb
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/RabbitMQ.Producer.genruntimeconfig.cache
+/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/obj/Debug/net8.0/ref/RabbitMQ.Producer.dll

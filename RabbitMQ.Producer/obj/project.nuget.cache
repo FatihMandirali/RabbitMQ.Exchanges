@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQj12KQ80APR4d+MSyI0V7dnLCsA8NFe7GgPXc7dQH6hFtZvRjfGhWKt/MQAnS3s3p3Zz2zXvAYulCH26nEsfg==",
+  "success": true,
+  "projectFilePath": "/Users/fatihmandirali/Documents/ws/lessons/rabbitmq/RabbitMQ.API/RabbitMQ.Producer/RabbitMQ.Producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatihmandirali/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/fatihmandirali/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/fatihmandirali/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
