@@ -3,6 +3,8 @@ using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
+//guest:guest -> username:password
+//amqp://guest:guest@localhost:5672
 var hostName = Environment.GetEnvironmentVariable("RABBIT_HOSTNAME") ?? "localhost";
 //RabbitMQ bağlantısı için
 var factory = new ConnectionFactory() { HostName = hostName, UserName = "guest", Password = "guest" };
